@@ -15,6 +15,11 @@ Welcome to the Netflix Website Clone repository! This project is a static websit
 <b> HTML </b> - For structuring the content of the website.<br>
 <b> CSS </b>- For styling and layout.
 
+<h2>🌐 Live Demo</h2>
+Check out the live demo of the project here:
+<a href="https://arynxtech.github.io/Netflix-Website-Clone/">Netflix-Website-Clone</a>
+
+
 <h2> 📌 Notes </h2>
 This project is for educational purposes and may not include all features of the original Netflix site.<br>
 The design may differ slightly to accommodate the limitations of a pure HTML/CSS implementation.
