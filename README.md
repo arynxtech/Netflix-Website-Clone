@@ -27,6 +27,3 @@ The design may differ slightly to accommodate the limitations of a pure HTML/CSS
 <h2> 📧 Contact </h2>
 For any questions or feedback, please feel free to reach out to me at <a href="mailto:arynxtech@gmail.com">arynxtech@gmail.com</a>
 
-<h2> ℹ️ License </h2>
-This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.
-
